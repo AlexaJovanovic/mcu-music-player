@@ -45,7 +45,7 @@ The project plays melodies on a passive buzzer by generating a **PWM signal**, w
 ## 📂 Project Structure
 
 ```
-/l476rg_mcu_code      → STM32CubeIDE project
+/l476rg_mcu_code      → Most important files of the MCU firmware
 /pc_py_serial_com     → Python UART script and sound recording for analysis
 ```
 
